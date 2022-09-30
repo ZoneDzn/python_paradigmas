@@ -1,0 +1,5 @@
+x = float(input("Digite a altura do quadrado: "))
+
+area = x ** 2
+
+print(f"Valor do dobro da area: {area * 2}")
